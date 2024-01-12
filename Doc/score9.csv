@@ -1,0 +1,4 @@
+﻿ID,tip,train_start,train_end,test_start,test_end,var_name,epochs,batch_size,context_length,prediction_length,wavelet_var_list,wavelet,NRMSE,ND,RMSE,MSE,MAPE,MASE,sMAPE,MSIS
+20231213211219_,"2FEAT_STATIC_REAL,行情8",2020-01-05,2023-06-02,2023-05-08,2023-06-02,"open,high,low,pre_close,change,pct_chg,vol,amount",20,128,20,5,"open,high,low,pre_close,change,pct_chg,vol,amount",0,0.1007,0.0324,8.1886,67.0533,0.0232,0.7598,0.0229,5.6382
+20231213203909_,"2FEAT_STATIC_REAL,行情8",2020-01-05,2023-06-02,2023-05-08,2023-06-02,"open,high,low,pre_close,change,pct_chg,vol,amount",20,32,20,5,"open,high,low,pre_close,change,pct_chg,vol,amount",0,0.0952,0.0277,7.7355,59.8386,0.0227,0.7795,0.0224,6.9914
+20231213194141_,"2FEAT_STATIC_REAL,行情8",2020-01-05,2023-06-02,2023-05-08,2023-06-02,"open,high,low,pre_close,change,pct_chg,vol,amount",20,64,20,5,"open,high,low,pre_close,change,pct_chg,vol,amount",0,0.1092,0.0331,8.8802,78.8575,0.0226,0.754,0.0223,5.4182
